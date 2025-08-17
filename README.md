@@ -2,5 +2,5 @@
 this is my first git repository
 <br>
 <h1>
-Author = JAI VERMA
+Author = YASHI VERMA
 </h1>
